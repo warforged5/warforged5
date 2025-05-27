@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Flutter and Django
 - 💞️ I’m looking to collaborate on anything, just message me and I would love to work and learn whatever
 - 📫 How to reach me: Friend me on discord: warforged
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: In 1936, Russia built a computer that ran on water named 'The Water Integrator'. The Soviet Union was wild.
 
 <!---
