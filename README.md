@@ -17,6 +17,32 @@
 
 ---
 
+## 🛠️ My Tech Stack
+
+<p align="left">
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/512/flutter.png" alt="Flutter" width="40" height="40"/>
+  </a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/512/dart.png" alt="dart" width="40" height="40"/>
+  </a>
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/512/kotlin.png" alt="kotlin" width="40" height="40"/>
+  </a>
+    </a>
+    <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/512/python.png" alt="python" width="40" height="40"/>
+  </a>
+    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/512/javascript.png" alt="javascipt" width="40" height="40"/>
+  </a>
+    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="java" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
 ## 📊 My GitHub Stats
 
 <p align="center">
